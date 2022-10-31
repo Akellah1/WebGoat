@@ -31,7 +31,7 @@ pipeline {
  // stage ('Source Composition Analysis') {
     // steps {
    //     sh 'rm owasp* || true' 
-    //  //  sh 'echo "Niksav592_" | sudo -S echo && sudo -S chmod +x /var/lib/jenkins/OWASP-Dependency-Check/owasp-dependency-check.sh '
+    //  //  sh 'echo "" | sudo -S echo && sudo -S chmod +x /var/lib/jenkins/OWASP-Dependency-Check/owasp-dependency-check.sh '
    //     //sh ' sudo chmod +x /var/lib/jenkins/OWASP-Dependency-Check/owasp-dependency-check.sh | sudo -S command'
         
    //     sh 'bash /var/lib/jenkins/OWASP-Dependency-Check/owasp-dependency-check.sh'
